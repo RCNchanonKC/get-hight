@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wavez\\Documents\\get hight\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58CA07A4-6270-44BA-8C6C-AF9F2F0C19E0}|get hight\\get hight.csproj|c:\\users\\wavez\\documents\\get hight\\get hight\\csv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CA07A4-6270-44BA-8C6C-AF9F2F0C19E0}|get hight\\get hight.csproj|solutionrelative:get hight\\csv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CA07A4-6270-44BA-8C6C-AF9F2F0C19E0}|get hight\\get hight.csproj|c:\\users\\wavez\\documents\\get hight\\get hight\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CA07A4-6270-44BA-8C6C-AF9F2F0C19E0}|get hight\\get hight.csproj|solutionrelative:get hight\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CA07A4-6270-44BA-8C6C-AF9F2F0C19E0}|get hight\\get hight.csproj|C:\\Users\\wavez\\Documents\\get hight\\get hight\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58CA07A4-6270-44BA-8C6C-AF9F2F0C19E0}|get hight\\get hight.csproj|solutionrelative:get hight\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CA07A4-6270-44BA-8C6C-AF9F2F0C19E0}|get hight\\get hight.csproj|C:\\Users\\wavez\\Documents\\get hight\\get hight\\herb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CA07A4-6270-44BA-8C6C-AF9F2F0C19E0}|get hight\\get hight.csproj|solutionrelative:get hight\\herb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CA07A4-6270-44BA-8C6C-AF9F2F0C19E0}|get hight\\get hight.csproj|C:\\Users\\wavez\\Documents\\get hight\\get hight\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CA07A4-6270-44BA-8C6C-AF9F2F0C19E0}|get hight\\get hight.csproj|solutionrelative:get hight\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CA07A4-6270-44BA-8C6C-AF9F2F0C19E0}|get hight\\get hight.csproj|C:\\Users\\wavez\\Documents\\get hight\\get hight\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CA07A4-6270-44BA-8C6C-AF9F2F0C19E0}|get hight\\get hight.csproj|solutionrelative:get hight\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CA07A4-6270-44BA-8C6C-AF9F2F0C19E0}|get hight\\get hight.csproj|C:\\Users\\wavez\\Documents\\get hight\\get hight\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CA07A4-6270-44BA-8C6C-AF9F2F0C19E0}|get hight\\get hight.csproj|solutionrelative:get hight\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CA07A4-6270-44BA-8C6C-AF9F2F0C19E0}|get hight\\get hight.csproj|C:\\Users\\wavez\\Documents\\get hight\\get hight\\kratomleaves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CA07A4-6270-44BA-8C6C-AF9F2F0C19E0}|get hight\\get hight.csproj|solutionrelative:get hight\\kratomleaves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CA07A4-6270-44BA-8C6C-AF9F2F0C19E0}|get hight\\get hight.csproj|C:\\Users\\wavez\\Documents\\get hight\\get hight\\aromaticevegetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CA07A4-6270-44BA-8C6C-AF9F2F0C19E0}|get hight\\get hight.csproj|solutionrelative:get hight\\aromaticevegetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CA07A4-6270-44BA-8C6C-AF9F2F0C19E0}|get hight\\get hight.csproj|C:\\Users\\wavez\\Documents\\get hight\\get hight\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58CA07A4-6270-44BA-8C6C-AF9F2F0C19E0}|get hight\\get hight.csproj|solutionrelative:get hight\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CA07A4-6270-44BA-8C6C-AF9F2F0C19E0}|get hight\\get hight.csproj|C:\\Users\\wavez\\Documents\\get hight\\get hight\\marijuana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CA07A4-6270-44BA-8C6C-AF9F2F0C19E0}|get hight\\get hight.csproj|solutionrelative:get hight\\marijuana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CA07A4-6270-44BA-8C6C-AF9F2F0C19E0}|get hight\\get hight.csproj|C:\\Users\\wavez\\Documents\\get hight\\get hight\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58CA07A4-6270-44BA-8C6C-AF9F2F0C19E0}|get hight\\get hight.csproj|solutionrelative:get hight\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CA07A4-6270-44BA-8C6C-AF9F2F0C19E0}|get hight\\get hight.csproj|C:\\Users\\wavez\\Documents\\get hight\\get hight\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58CA07A4-6270-44BA-8C6C-AF9F2F0C19E0}|get hight\\get hight.csproj|solutionrelative:get hight\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\wavez\\Documents\\get hight\\get hight\\Form2.cs",
+              "RelativeDocumentMoniker": "get hight\\Form2.cs",
+              "ToolTip": "C:\\Users\\wavez\\Documents\\get hight\\get hight\\Form2.cs",
+              "RelativeToolTip": "get hight\\Form2.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T16:49:40.148Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Herb.cs",
+              "DocumentMoniker": "C:\\Users\\wavez\\Documents\\get hight\\get hight\\Herb.cs",
+              "RelativeDocumentMoniker": "get hight\\Herb.cs",
+              "ToolTip": "C:\\Users\\wavez\\Documents\\get hight\\get hight\\Herb.cs",
+              "RelativeToolTip": "get hight\\Herb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T19:16:07.644Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CSV.cs",
+              "DocumentMoniker": "C:\\Users\\wavez\\Documents\\get hight\\get hight\\CSV.cs",
+              "RelativeDocumentMoniker": "get hight\\CSV.cs",
+              "ToolTip": "C:\\Users\\wavez\\Documents\\get hight\\get hight\\CSV.cs",
+              "RelativeToolTip": "get hight\\CSV.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T19:58:44.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\wavez\\Documents\\get hight\\get hight\\Form2.cs",
+              "RelativeDocumentMoniker": "get hight\\Form2.cs",
+              "ToolTip": "C:\\Users\\wavez\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\vs\\get hight\\get hight\\Form2.cs [Design]",
+              "RelativeToolTip": "..\\..\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\vs\\get hight\\get hight\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T16:49:35.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\wavez\\Documents\\get hight\\get hight\\Form1.cs",
+              "RelativeDocumentMoniker": "get hight\\Form1.cs",
+              "ToolTip": "C:\\Users\\wavez\\Documents\\get hight\\get hight\\Form1.cs",
+              "RelativeToolTip": "get hight\\Form1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T17:29:39.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\wavez\\Documents\\get hight\\get hight\\Form1.cs",
+              "RelativeDocumentMoniker": "get hight\\Form1.cs",
+              "ToolTip": "C:\\Users\\wavez\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\vs\\get hight\\get hight\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\vs\\get hight\\get hight\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T17:29:35.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\wavez\\Documents\\get hight\\get hight\\Form4.cs",
+              "RelativeDocumentMoniker": "get hight\\Form4.cs",
+              "ToolTip": "C:\\Users\\wavez\\Documents\\get hight\\get hight\\Form4.cs",
+              "RelativeToolTip": "get hight\\Form4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T17:02:27.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\wavez\\Documents\\get hight\\get hight\\Form4.cs",
+              "RelativeDocumentMoniker": "get hight\\Form4.cs",
+              "ToolTip": "C:\\Users\\wavez\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\vs\\get hight\\get hight\\Form4.cs [Design]",
+              "RelativeToolTip": "..\\..\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\vs\\get hight\\get hight\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T17:02:24.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\wavez\\Documents\\get hight\\get hight\\Form3.cs",
+              "RelativeDocumentMoniker": "get hight\\Form3.cs",
+              "ToolTip": "C:\\Users\\wavez\\Documents\\get hight\\get hight\\Form3.cs",
+              "RelativeToolTip": "get hight\\Form3.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAhwB4AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T17:08:39.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\wavez\\Documents\\get hight\\get hight\\Form3.cs",
+              "RelativeDocumentMoniker": "get hight\\Form3.cs",
+              "ToolTip": "C:\\Users\\wavez\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\vs\\get hight\\get hight\\Form3.cs [Design]",
+              "RelativeToolTip": "..\\..\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\vs\\get hight\\get hight\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T17:02:22.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KratomLeaves.cs",
+              "DocumentMoniker": "C:\\Users\\wavez\\Documents\\get hight\\get hight\\KratomLeaves.cs",
+              "RelativeDocumentMoniker": "get hight\\KratomLeaves.cs",
+              "ToolTip": "C:\\Users\\wavez\\Documents\\get hight\\get hight\\KratomLeaves.cs",
+              "RelativeToolTip": "get hight\\KratomLeaves.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T15:34:30.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Marijuana.cs",
+              "DocumentMoniker": "C:\\Users\\wavez\\Documents\\get hight\\get hight\\Marijuana.cs",
+              "RelativeDocumentMoniker": "get hight\\Marijuana.cs",
+              "ToolTip": "C:\\Users\\wavez\\Documents\\get hight\\get hight\\Marijuana.cs",
+              "RelativeToolTip": "get hight\\Marijuana.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T15:18:28.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AromaticeVegetable.cs",
+              "DocumentMoniker": "C:\\Users\\wavez\\Documents\\get hight\\get hight\\AromaticeVegetable.cs",
+              "RelativeDocumentMoniker": "get hight\\AromaticeVegetable.cs",
+              "ToolTip": "C:\\Users\\wavez\\Documents\\get hight\\get hight\\AromaticeVegetable.cs",
+              "RelativeToolTip": "get hight\\AromaticeVegetable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T15:12:27.048Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

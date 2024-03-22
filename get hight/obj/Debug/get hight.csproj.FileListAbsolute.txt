@@ -1,0 +1,13 @@
+C:\Users\wavez\OneDrive\เอกสาร\vs\get hight\get hight\bin\Debug\get hight.exe.config
+C:\Users\wavez\OneDrive\เอกสาร\vs\get hight\get hight\bin\Debug\get hight.exe
+C:\Users\wavez\OneDrive\เอกสาร\vs\get hight\get hight\bin\Debug\get hight.pdb
+C:\Users\wavez\OneDrive\เอกสาร\vs\get hight\get hight\obj\Debug\get hight.csproj.AssemblyReference.cache
+C:\Users\wavez\OneDrive\เอกสาร\vs\get hight\get hight\obj\Debug\get_hight.Form1.resources
+C:\Users\wavez\OneDrive\เอกสาร\vs\get hight\get hight\obj\Debug\get_hight.Form2.resources
+C:\Users\wavez\OneDrive\เอกสาร\vs\get hight\get hight\obj\Debug\get_hight.Properties.Resources.resources
+C:\Users\wavez\OneDrive\เอกสาร\vs\get hight\get hight\obj\Debug\get hight.csproj.GenerateResource.cache
+C:\Users\wavez\OneDrive\เอกสาร\vs\get hight\get hight\obj\Debug\get hight.csproj.CoreCompileInputs.cache
+C:\Users\wavez\OneDrive\เอกสาร\vs\get hight\get hight\obj\Debug\get hight.exe
+C:\Users\wavez\OneDrive\เอกสาร\vs\get hight\get hight\obj\Debug\get hight.pdb
+C:\Users\wavez\OneDrive\เอกสาร\vs\get hight\get hight\obj\Debug\get_hight.Form3.resources
+C:\Users\wavez\OneDrive\เอกสาร\vs\get hight\get hight\obj\Debug\get_hight.Form4.resources
